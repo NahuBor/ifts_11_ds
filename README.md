@@ -1,0 +1,2 @@
+# ifts_11_ds
+Repositorio en donde se subiran los parciales, apuntes y contenido a las materias de la carrera de Desarrollo de Software.
